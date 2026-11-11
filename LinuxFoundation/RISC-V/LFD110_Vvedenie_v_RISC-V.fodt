@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:officeooo="http://openoffice.org/2009/office" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2026-11-09T11:57:04.052906300</meta:creation-date><dc:date>2026-11-11T18:47:52.227079000</dc:date><meta:editing-duration>PT11H57M12S</meta:editing-duration><meta:editing-cycles>87</meta:editing-cycles><meta:generator>LibreOffice/26.2.6.3$Windows_X86_64 LibreOffice_project/8221e31b3ac356a1623c672912a3d2b492f7e3d1</meta:generator><meta:print-date>2026-11-09T12:39:36.523646100</meta:print-date><meta:printed-by>Файлы PDF</meta:printed-by><meta:document-statistic meta:table-count="1" meta:image-count="9" meta:object-count="0" meta:page-count="37" meta:paragraph-count="653" meta:word-count="12819" meta:character-count="98472" meta:non-whitespace-character-count="86414"/></office:meta>
+ <office:meta><meta:creation-date>2026-11-09T11:57:04.052906300</meta:creation-date><dc:date>2026-11-11T20:24:38.600426600</dc:date><meta:editing-duration>PT12H51M3S</meta:editing-duration><meta:editing-cycles>96</meta:editing-cycles><meta:generator>LibreOffice/26.2.6.3$Windows_X86_64 LibreOffice_project/8221e31b3ac356a1623c672912a3d2b492f7e3d1</meta:generator><meta:print-date>2026-11-09T12:39:36.523646100</meta:print-date><meta:printed-by>Файлы PDF</meta:printed-by><meta:document-statistic meta:table-count="3" meta:image-count="9" meta:object-count="0" meta:page-count="42" meta:paragraph-count="809" meta:word-count="14472" meta:character-count="110736" meta:non-whitespace-character-count="96665"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">1090792</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">23848</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">22932</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">19334</config:config-item>
@@ -14,11 +14,11 @@
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
      <config:config-item config:name="ViewLeft" config:type="long">1464</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">1106831</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">3194</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">1090792</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">23848</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">22931</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">1110125</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">43180</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -85,7 +85,7 @@
    <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="IgnoreHiddenCharsForLineCalculation" config:type="boolean">true</config:config-item>
    <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">4866540</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">5100682</config:config-item>
    <config:config-item config:name="RsidRoot" config:type="int">922359</config:config-item>
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
@@ -273,6 +273,9 @@
   </style:style>
   <style:style style:name="Index_20_Link" style:display-name="Index Link" style:family="text"/>
   <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Strong_20_Emphasis" style:display-name="Strong Emphasis" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
   <style:style style:name="Graphics" style:family="graphic">
    <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:background-color="transparent" draw:fill="none"/>
   </style:style>
@@ -366,6 +369,27 @@
   </style:style>
   <style:style style:name="Символьные_5f_имена_5f_регистров_5f_RISC-V.A1" style:display-name="Символьные_имена_регистров_RISC-V.A1" style:family="table-cell">
    <style:table-cell-properties style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="Таблица1" style:family="table">
+   <style:table-properties style:width="20.003cm" table:align="margins"/>
+  </style:style>
+  <style:style style:name="Таблица1.A" style:family="table-column">
+   <style:table-column-properties style:column-width="6.668cm" style:rel-column-width="21845*"/>
+  </style:style>
+  <style:style style:name="Таблица1.A1" style:family="table-cell">
+   <style:table-cell-properties style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="Таблица2" style:family="table">
+   <style:table-properties style:width="20.003cm" table:align="margins"/>
+  </style:style>
+  <style:style style:name="Таблица2.A" style:family="table-column">
+   <style:table-column-properties style:column-width="6.668cm" style:rel-column-width="21845*"/>
+  </style:style>
+  <style:style style:name="Таблица2.A1" style:family="table-cell">
+   <style:table-cell-properties style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="Таблица2.13" style:family="table-row">
+   <style:table-row-properties style:min-row-height="0.381cm"/>
   </style:style>
   <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Title">
    <style:text-properties officeooo:rsid="000fa2f4" officeooo:paragraph-rsid="000fa2f4"/>
@@ -641,6 +665,65 @@
   <style:style style:name="P96" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L36">
    <style:text-properties officeooo:paragraph-rsid="004a41ec"/>
   </style:style>
+  <style:style style:name="P97" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="004a41ec" officeooo:paragraph-rsid="004a41ec"/>
+  </style:style>
+  <style:style style:name="P98" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L37">
+   <style:text-properties officeooo:paragraph-rsid="004a41ec"/>
+  </style:style>
+  <style:style style:name="P99" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="004a41ec" officeooo:paragraph-rsid="004a41ec" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P100" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="004a41ec" officeooo:paragraph-rsid="004a41ec" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P101" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="1.251cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+   <style:text-properties officeooo:paragraph-rsid="004a9dd2"/>
+  </style:style>
+  <style:style style:name="P102" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties officeooo:rsid="004c2b6c" officeooo:paragraph-rsid="004c2b6c"/>
+  </style:style>
+  <style:style style:name="P103" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="004c2b6c"/>
+  </style:style>
+  <style:style style:name="P104" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-weight="bold" officeooo:paragraph-rsid="004c2b6c" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P105" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="004c2b6c" officeooo:paragraph-rsid="004c2b6c" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P106" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="ru" fo:country="RU" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="004c2b6c" officeooo:paragraph-rsid="004c2b6c" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P107" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="ru" fo:country="RU" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="004c2b6c" officeooo:paragraph-rsid="004c2b6c" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P108" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="004c2b6c" officeooo:paragraph-rsid="004c2b6c" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P109" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="en" fo:country="US" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="004c2b6c" officeooo:paragraph-rsid="004c2b6c" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P110" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L38"/>
+  <style:style style:name="P111" style:family="paragraph" style:parent-style-name="Table_20_Heading">
+   <style:text-properties officeooo:rsid="004c2b6c" officeooo:paragraph-rsid="004c2b6c"/>
+  </style:style>
+  <style:style style:name="P112" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="004c2b6c" officeooo:paragraph-rsid="004c2b6c"/>
+  </style:style>
+  <style:style style:name="P113" style:family="paragraph" style:parent-style-name="Table_20_Heading">
+   <style:text-properties officeooo:rsid="004ce348" officeooo:paragraph-rsid="004ce348"/>
+  </style:style>
+  <style:style style:name="P114" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+   <style:text-properties officeooo:rsid="004dd48a" officeooo:paragraph-rsid="004dd48a"/>
+  </style:style>
+  <style:style style:name="P115" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L39">
+   <style:text-properties officeooo:paragraph-rsid="004dd48a"/>
+  </style:style>
+  <style:style style:name="P116" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="004dd48a"/>
+  </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:language="en" fo:country="US"/>
   </style:style>
@@ -724,6 +807,21 @@
   </style:style>
   <style:style style:name="T28" style:family="text">
    <style:text-properties officeooo:rsid="0048bd76"/>
+  </style:style>
+  <style:style style:name="T29" style:family="text">
+   <style:text-properties officeooo:rsid="004a9dd2"/>
+  </style:style>
+  <style:style style:name="T30" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="004a9dd2"/>
+  </style:style>
+  <style:style style:name="T31" style:family="text">
+   <style:text-properties fo:language="ru" fo:country="RU" officeooo:rsid="004a9dd2"/>
+  </style:style>
+  <style:style style:name="T32" style:family="text">
+   <style:text-properties officeooo:rsid="004c2b6c"/>
+  </style:style>
+  <style:style style:name="T33" style:family="text">
+   <style:text-properties fo:language="en" fo:country="US" officeooo:rsid="004c2b6c"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
    <style:graphic-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" style:run-through="foreground" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:padding="0cm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%"/>
@@ -2916,6 +3014,192 @@
     <style:text-properties fo:font-family="OpenSymbol"/>
    </text:list-level-style-bullet>
   </text:list-style>
+  <text:list-style style:name="L37">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" loext:num-list-format="%2%" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" loext:num-list-format="%3%" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" loext:num-list-format="%5%" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" loext:num-list-format="%6%" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" loext:num-list-format="%8%" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" loext:num-list-format="%9%" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L38">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" loext:num-list-format="%2%" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" loext:num-list-format="%3%" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" loext:num-list-format="%5%" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" loext:num-list-format="%6%" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" loext:num-list-format="%8%" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" loext:num-list-format="%9%" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L39">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" loext:num-list-format="%2%" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" loext:num-list-format="%3%" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" loext:num-list-format="%5%" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" loext:num-list-format="%6%" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" loext:num-list-format="%8%" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" loext:num-list-format="%9%" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+    <style:text-properties fo:font-family="OpenSymbol"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.499cm" fo:margin-bottom="0.499cm" fo:margin-left="0.499cm" fo:margin-right="0.499cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
     <style:columns fo:column-count="1" fo:column-gap="0cm"/>
@@ -3035,21 +3319,21 @@
      <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc279_759769767" office:name="Подробности курса" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Подробности курса<text:tab/>3</text:a></text:p>
      <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc281_759769767" office:name="Поддержка курса и другие ресурсы" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Поддержка курса и другие ресурсы<text:tab/>3</text:a></text:p>
      <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc283_759769767" office:name="Познакомьтесь со своим инструктором: Эдуардо Корпеньо" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Познакомьтесь со своим инструктором: Эдуардо Корпеньо<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc285_759769767" office:name="Обзор Linux Foundation" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Обзор Linux Foundation<text:tab/>4</text:a></text:p>
-     <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc287_759769767" office:name="О нас" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">О нас<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc285_759769767" office:name="Обзор Linux Foundation" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Обзор Linux Foundation<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc287_759769767" office:name="О нас" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">О нас<text:tab/>5</text:a></text:p>
      <text:p text:style-name="P2"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc643_759769767" office:name="02. Знакомство с RISC-V" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">02. Знакомство с RISC-V<text:tab/>5</text:a></text:p>
      <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc645_759769767" office:name="Введение" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Введение<text:tab/>5</text:a></text:p>
      <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc647_759769767" office:name="Обзор и цели главы" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Обзор и цели главы<text:tab/>5</text:a></text:p>
      <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc829_759769767" office:name="Изучение RISC-V" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Изучение RISC-V<text:tab/>5</text:a></text:p>
      <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc831_759769767" office:name="О RISC-V" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">О RISC-V<text:tab/>5</text:a></text:p>
      <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc833_759769767" office:name="RISC-V ISA и сообщество" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">RISC-V ISA и сообщество<text:tab/>6</text:a></text:p>
-     <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc520_1863926033" office:name="Важность открытого исходного кода и открытых стандартов" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Важность открытого исходного кода и открытых стандартов<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc520_1863926033" office:name="Важность открытого исходного кода и открытых стандартов" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Важность открытого исходного кода и открытых стандартов<text:tab/>7</text:a></text:p>
      <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc522_1863926033" office:name="История RISC и открытых ISA" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">История RISC и открытых ISA<text:tab/>7</text:a></text:p>
      <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc524_1863926033" office:name="Истоки RISC-V: исследования архитектуры Калифорнийского университета в Беркли" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Истоки RISC-V: исследования архитектуры Калифорнийского университета в Беркли<text:tab/>8</text:a></text:p>
-     <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc526_1863926033" office:name="Влияние DARPA" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Влияние DARPA<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc526_1863926033" office:name="Влияние DARPA" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Влияние DARPA<text:tab/>9</text:a></text:p>
      <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1204_125099491" office:name="Интересный факт: название RISC-V" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Интересный факт: название RISC-V<text:tab/>9</text:a></text:p>
-     <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1206_125099491" office:name="RISC-V International" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">RISC-V International<text:tab/>9</text:a></text:p>
-     <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1208_125099491" office:name="Введение в RISC-V International" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Введение в RISC-V International<text:tab/>9</text:a></text:p>
+     <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1206_125099491" office:name="RISC-V International" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">RISC-V International<text:tab/>10</text:a></text:p>
+     <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1208_125099491" office:name="Введение в RISC-V International" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Введение в RISC-V International<text:tab/>10</text:a></text:p>
      <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1210_125099491" office:name="Эволюция RISC-V International" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Эволюция RISC-V International<text:tab/>10</text:a></text:p>
      <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1212_125099491" office:name="Членство в RISC-V International" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Членство в RISC-V International<text:tab/>11</text:a></text:p>
      <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc1214_125099491" office:name="RISC-V International управление" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">RISC-V International управление<text:tab/>12</text:a></text:p>
@@ -3095,6 +3379,20 @@
      <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2673_125099491" office:name="ISA уровня супервизора (S-Mode), версия 1.12" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">ISA уровня супервизора (S-Mode), версия 1.12<text:tab/>36</text:a></text:p>
      <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2675_125099491" office:name="Краткое содержание главы" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Краткое содержание главы<text:tab/>36</text:a></text:p>
      <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc2677_125099491" office:name="Краткое содержание главы 3" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Краткое содержание главы 3<text:tab/>36</text:a></text:p>
+     <text:p text:style-name="P2"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3914_125099491" office:name="04. Практический язык ассемблера RISC-V" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">04. Практический язык ассемблера RISC-V<text:tab/>37</text:a></text:p>
+     <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3916_125099491" office:name="Вступление" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Вступление<text:tab/>37</text:a></text:p>
+     <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3918_125099491" office:name="Обзор главы и цели" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Обзор главы и цели<text:tab/>37</text:a></text:p>
+     <text:p text:style-name="P3"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3920_125099491" office:name="Специфичный для RISC-V язык ассемблера" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Специфичный для RISC-V язык ассемблера<text:tab/>37</text:a></text:p>
+     <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc3922_125099491" office:name="О языке ассемблера" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">О языке ассемблера<text:tab/>37</text:a></text:p>
+     <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc4619_125099491" office:name="Возможности" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Возможности<text:tab/>38</text:a></text:p>
+     <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc4621_125099491" office:name="Как работает язык ассемблера RISC-V" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Как работает язык ассемблера RISC-V<text:tab/>38</text:a></text:p>
+     <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc4623_125099491" office:name="Синтаксис языка Ассемблер" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Синтаксис языка Ассемблер<text:tab/>38</text:a></text:p>
+     <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc4625_125099491" office:name="Директивы Ассемблера" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Директивы Ассемблера<text:tab/>39</text:a></text:p>
+     <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc4627_125099491" office:name="Памятка: набор инструкций RISC-V" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Памятка: набор инструкций RISC-V<text:tab/>40</text:a></text:p>
+     <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc4629_125099491" office:name="Краткий обзор набора инструкций ассемблера RISC-V" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Краткий обзор набора инструкций ассемблера RISC-V<text:tab/>40</text:a></text:p>
+     <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc4631_125099491" office:name="Краткий обзор псевдоинструкций RISC-V" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Краткий обзор псевдоинструкций RISC-V<text:tab/>41</text:a></text:p>
+     <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc4633_125099491" office:name="Доступ к CSR" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Доступ к CSR<text:tab/>41</text:a></text:p>
+     <text:p text:style-name="P4"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc4635_125099491" office:name="Порядок следования операндов" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link">Порядок следования операндов<text:tab/>42</text:a></text:p>
     </text:index-body>
    </text:table-of-content>
    <text:p text:style-name="Standard"/>
@@ -3118,9 +3416,9 @@
      <text:p text:style-name="P7">Выберите подходящий инструмент разработки для вашего следующего проекта, связанного с RISC-V.</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="Text_20_body">Вы должны рассчитывать потратить примерно 10 часов для завершения этого курса. Вы имеете доступ к этому курсу в течение 90 дней с даты регистрации или до истечения срока действия вашей подписки (в зависимости от того, что произойдет раньше).</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>Вы должны рассчитывать потратить примерно 10 часов для завершения этого курса. Вы имеете доступ к этому курсу в течение 90 дней с даты регистрации или до истечения срока действия вашей подписки (в зависимости от того, что произойдет раньше).</text:p>
    <text:p text:style-name="Text_20_body">Главы курса были разработаны таким образом, чтобы дополнять друг друга. Вероятно, лучше всего прорабатывать их последовательно; если вы быстро пропустите или просмотрите только некоторые главы, вы можете обнаружить, что обсуждаются темы, с которыми вы еще не знакомы. Но все это происходит в индивидуальном темпе, вы всегда можете вернуться назад, проложить свой собственный путь по материалу и вернуться точно к тому месту, на котором остановились, когда вернетесь, чтобы начать новый сеанс. Тем не менее, мы по-прежнему рекомендуем вам избегать длительных перерывов между периодами работы, поскольку это ускорит обучение и улучшит усвоение материала.</text:p>
-   <text:p text:style-name="Text_20_body">В конце каждой главы вы найдете ряд вопросов для проверки знаний. Эти вопросы были разработаны с одной главной целью: помочь вам лучше понять содержание курса и закрепить полученные знания. Вопросы <text:soft-page-break/>проверки знаний в конце главы не оцениваются. Однако по окончании курса вам необходимо будет сдать итоговый экзамен и набрать 70% или выше, чтобы успешно завершить курс.</text:p>
+   <text:p text:style-name="Text_20_body">В конце каждой главы вы найдете ряд вопросов для проверки знаний. Эти вопросы были разработаны с одной главной целью: помочь вам лучше понять содержание курса и закрепить полученные знания. Вопросы проверки знаний в конце главы не оцениваются. Однако по окончании курса вам необходимо будет сдать итоговый экзамен и набрать 70% или выше, чтобы успешно завершить курс.</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc279_759769767"/>Подробности курса<text:bookmark-end text:name="__RefHeading___Toc279_759769767"/></text:h>
    <text:p text:style-name="P8">Для кого предназначен курс?</text:p>
    <text:p text:style-name="Text_20_body">Энтузиасты RISC-V, разработчики оборудования и программного обеспечения, любители технологий и все, кто интересуется подробностями того, как ISA с открытым исходным кодом разрушает барьеры и открывает новые возможности в мире микропроцессоров.</text:p>
@@ -3155,7 +3453,7 @@
      <text:p text:style-name="P11">Сообщайте о содержании или проблемах в лаборатории.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P11">Поделитесь советами, решениями и учебными ресурсами.</text:p>
+     <text:p text:style-name="P11"><text:soft-page-break/>Поделитесь советами, решениями и учебными ресурсами.</text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P11">Просмотрите предыдущие обсуждения и решения.</text:p>
@@ -3176,7 +3474,7 @@
      <text:p text:style-name="P12">Укажите соответствующие данные, такие как номер курса, номер лабораторного упражнения, сообщения об ошибках и шаги, которые вы уже предприняли для устранения проблемы.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P12"><text:soft-page-break/>Будьте максимально конкретны, чтобы помочь модераторам и другим учащимся оказать точную помощь.</text:p>
+     <text:p text:style-name="P12">Будьте максимально конкретны, чтобы помочь модераторам и другим учащимся оказать точную помощь.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P9">Поддержка клиентов — вопросы о регистрации, вашей учетной записи LF и т. д.</text:p>
@@ -3198,7 +3496,7 @@
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc283_759769767"/>Познакомьтесь со своим инструктором: Эдуардо Корпеньо<text:bookmark-end text:name="__RefHeading___Toc283_759769767"/></text:h>
    <text:p text:style-name="Text_20_body">Эдуардо Корпеньо — инженер-электрик, программист, преподаватель и создатель всемирно известной платформы Brainfuino.</text:p>
    <text:p text:style-name="Text_20_body">Эдуардо — гордый выпускник онлайн-программы магистратуры по компьютерным наукам в Технологическом институте Джорджии. Он опубликовал более 30 онлайн-курсов по таким темам, как микроконтроллеры, встраиваемые системы и решение инженерных задач. В Университете Галилео в Гватемале Эдуардо преподает различные предметы, включая теорию электрических цепей и встроенные системы на основе микроконтроллеров и ПЛИС. Вместе с коллегой Эдуардо перевел на испанский язык &quot;The RISC-V Reader: An Open Architecture Atlas&quot; лауреата премии Тьюринга Дэвида Паттерсона и Эндрю Уотермана.</text:p>
-   <text:p text:style-name="Text_20_body">В свободное время Эдуардо наслаждается обществом своей любимой жены, двух талантливых сыновей и избалованной собаки, о которой, кстати, Эдуардо является другом каждого чихуахуа.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>В свободное время Эдуардо наслаждается обществом своей любимой жены, двух талантливых сыновей и избалованной собаки, о которой, кстати, Эдуардо является другом каждого чихуахуа.</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc285_759769767"/>Обзор Linux Foundation<text:bookmark-end text:name="__RefHeading___Toc285_759769767"/></text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc287_759769767"/>О нас<text:bookmark-end text:name="__RefHeading___Toc287_759769767"/></text:h>
    <text:p text:style-name="Text_20_body">Для начала:</text:p>
@@ -3213,7 +3511,7 @@
    <text:p text:style-name="Text_20_body">Для навигации по урокам:</text:p>
    <text:list text:style-name="L8">
     <text:list-item>
-     <text:p text:style-name="P17"><text:soft-page-break/>Используйте кнопку меню (три горизонтальные линии) в левом верхнем углу, чтобы получить доступ к списку уроков.</text:p>
+     <text:p text:style-name="P17">Используйте кнопку меню (три горизонтальные линии) в левом верхнем углу, чтобы получить доступ к списку уроков.</text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P17">Внизу каждой страницы выберите следующий номер урока, чтобы продолжить.</text:p>
@@ -3252,7 +3550,7 @@
      <text:p text:style-name="P19">Архитектура набора инструкций (ISA)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P19">Сообщество пользователей и разработчиков ISA</text:p>
+     <text:p text:style-name="P19"><text:soft-page-break/>Сообщество пользователей и разработчиков ISA</text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P19">RISC-V International, организация, владеющая и поддерживающая интеллектуальную собственность ISA</text:p>
@@ -3262,7 +3560,7 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="Text_20_body">Как видите, каждая из этих вещей вращается вокруг ISA как центрального компонента, но все эти вещи - RISC-V. В целом, мы используем RISC-V в разговоре для обозначения технологических компонентов – ISA и ее различных спецификаций–, в то время как другими контекстами являются сообщество RISC-V, RISC-V International и оборудование RISC-V соответственно.</text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc833_759769767"/><text:soft-page-break/>RISC-V ISA и сообщество<text:bookmark-end text:name="__RefHeading___Toc833_759769767"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc833_759769767"/>RISC-V ISA и сообщество<text:bookmark-end text:name="__RefHeading___Toc833_759769767"/></text:h>
    <text:p text:style-name="Text_20_body">ISA относится к архитектуре набора инструкций, абстрактной модели компьютера — в данном случае компьютера с сокращенным набором инструкций (или RISC). Спецификация этого набора инструкций относится к 5-му поколению RISC-процессоров, которые разрабатываются с 1980-х годов, поэтому мы называем его RISC-V.</text:p>
    <text:p text:style-name="Text_20_body">В отличие от технологии, разработанной частной компанией или консорциумом, RISC-V разрабатывается сообществом, группой лиц и организаций, которые вносят свой вклад в разработку этих спецификаций. Членами сообщества являются представители всех слоев общества — профессионалы отрасли, студенты, тренеры и все, кто интересуется открытыми технологиями и готов узнать о них больше.</text:p>
    <text:p text:style-name="Text_20_body">Хотя у всех участников есть своя причина участия, все они разделяют общий интерес к разработке общедоступной спецификации архитектуры набора инструкций и экосистемы вокруг нее. Эта экосистема состоит из самых разных элементов:</text:p>
@@ -3286,29 +3584,29 @@
    <text:p text:style-name="Text_20_body">Вся эта продукция сообщества <text:span text:style-name="T4">представлена</text:span> на сайте <text:a xlink:type="simple" xlink:href="https://riscv.org/exchange/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Биржа RISC-V</text:a>, организован раздел <text:span text:style-name="T4">на</text:span> <text:a xlink:type="simple" xlink:href="http://riscv.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T4">с</text:span>айт<text:span text:style-name="T4">е</text:span> RISC-V</text:a>, который описывает экосистему с точки зрения доступного оборудования и программного обеспечения, услуг, учебных материалов и тем для обсуждения.</text:p>
    <text:p text:style-name="Text_20_body">На веб-сайте также размещена гораздо более подробная информация о сообществе со ссылками на рабочие группы участников, а также на публичные списки рассылки, организованная информация на вики и, конечно же, сами спецификации — как завершенные, одобренные версии, так и последние разрабатываемые спецификации.</text:p>
    <text:p text:style-name="Text_20_body">Так почему же мы называем это сообществом, а не рынком? Истинная причина в том, что мы считаем, что сообщество — это, безусловно, лучший способ подойти к такой сложной задаче, как создание новой архитектуры с нуля, используя проверенные методы разработки с открытым исходным кодом. В основе RISC-V лежит сообщество высоко мотивированных людей, нацеленных на достижение одних и тех же целей и использующих силу совместной работы многими руками для подъема тяжелого груза.</text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc520_1863926033"/>Важность открытого исходного кода и открытых стандартов<text:bookmark-end text:name="__RefHeading___Toc520_1863926033"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc520_1863926033"/><text:soft-page-break/>Важность открытого исходного кода и открытых стандартов<text:bookmark-end text:name="__RefHeading___Toc520_1863926033"/></text:h>
    <text:p text:style-name="Text_20_body">История RISC-V начинается в Лаборатории параллельных вычислений Калифорнийского университета в Беркли. Чтобы подготовить почву, мы сначала обсудим важность открытого исходного кода и открытых стандартов, поскольку они напрямую применимы к процессу разработки и открытому лицензированию RISC-V ISA.</text:p>
    <text:p text:style-name="Text_20_body">Технологии не существуют изолированно, если только речь не идет об исключительно простых, не подключенных устройствах, таких как фонарик. <text:span text:style-name="T5">И</text:span> даже в этом случае мы полагаемся на международные стандарты при подключении батареи к лампочке. Поскольку наш технический мир стал более сложным и взаимосвязанным, глобальные стандарты гарантируют, что общество сможет реализовать глубокие преимущества совместимости от изобретателя до потребителя.</text:p>
-   <text:p text:style-name="Text_20_body"><text:soft-page-break/>Стандарты стимулируют инновации на уровне базовой платформы: от стандартной резьбы на крепежном винте, до резьбы, соединяющей кремний на микропроцессоре. Установление добровольных стандартов в области инжиниринга насчитывает более столетия. В конце 1980-х - 1990-х год<text:span text:style-name="T5">ов</text:span> Тим Бернерс-Ли возглавил революцию по стандартизации протоколов, которые мы используем в Интернете (URL, HTML, HTTP, W3C), что, несомненно, является крупнейшим достижением технологической полезности в современной истории. Существует множество примеров, лежащих в основе технологий, на которые мы полагаемся каждый день.</text:p>
+   <text:p text:style-name="Text_20_body">Стандарты стимулируют инновации на уровне базовой платформы: от стандартной резьбы на крепежном винте, до резьбы, соединяющей кремний на микропроцессоре. Установление добровольных стандартов в области инжиниринга насчитывает более столетия. В конце 1980-х - 1990-х год<text:span text:style-name="T5">ов</text:span> Тим Бернерс-Ли возглавил революцию по стандартизации протоколов, которые мы используем в Интернете (URL, HTML, HTTP, W3C), что, несомненно, является крупнейшим достижением технологической полезности в современной истории. Существует множество примеров, лежащих в основе технологий, на которые мы полагаемся каждый день.</text:p>
    <text:p text:style-name="Text_20_body">Достижения в области стандартизации программного и аппаратного обеспечения благодаря глобальному сотрудничеству и консенсусу, а также разработке программного и аппаратного обеспечения с открытым исходным кодом и разработке программного и аппаратного обеспечения ускорили технический прогресс в беспрецедентном глобальном масштабе. Выпуск RISC-V в открытое сообщество как для стандартизации, так и для постоянного совершенствования посредством открытого сотрудничества лежит в основе RISC-V International. Без сотрудничества и открытого доступа к RISC-V ISA и открытым расширениям сообщество рискует подвергнуться фрагментации, разветвлению и установлению множественных стандартов.</text:p>
    <text:p text:style-name="Text_20_body">Как архитектура набора инструкций, RISC-V сам по себе не является “открытым исходным кодом” в том смысле, в каком открыто программное обеспечение, поскольку ISA не состоит из исходного кода. Однако это открытая спецификация, выпущенная по лицензии Creative Commons. Другие артефакты в RISC-V, такие как программное обеспечение и тесты соответствия, используют соответствующие лицензии (например, BSD и MIT), которые сохраняют изначальное разрешительное намерение сделать RISC-V доступным для всех.</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc522_1863926033"/>История RISC и открытых ISA<text:bookmark-end text:name="__RefHeading___Toc522_1863926033"/></text:h>
    <text:p text:style-name="Text_20_body">RISC означает компьютер с сокращенным набором команд, компьютерную архитектуру, предложенную в начале 1980-х годов, основанную на простоте, в отличие от современных микропроцессоров того времени, получивших название Сложный набор инструкций Компьютер<text:span text:style-name="T6">а</text:span>, или CISC. Архитектура RISC родилась в академической среде, поэтому дизайн стремится к простоте и эффективности, предлагая ряд функций, которые резко противоречили философии CISC, мотивированной в то время коммерческими интересами. RISC во многих отношениях является противоположностью CISC. Обычно процессоры CISC имеют несколько регистров и множество инструкций, большинство из которых имеют доступ к памяти, тогда как процессоры RISC имеют множество регистров и очень скромный набор инструкций, при этом доступ к памяти ограничен несколькими инструкциями загрузки и хранения.</text:p>
    <text:p text:style-name="Text_20_body">Теперь различие между сложным и сокращенным набором инструкций заключается в цифрах: наборы инструкций CISC обычно поддерживают множество инструкций, многие из которых выполняют сложные вычисления для конкретных задач, тогда как наборы инструкций RISC имеют скромное количество простых инструкций общего назначения. Например: Intel 80386 (первый 32-разрядный микропроцессор) был выпущен в 1985 году и поддерживал более 150 инструкций, тогда как RISC-V Base Integer ISA был выпущен в 2010 году и имеет всего 40 инструкций!</text:p>
-   <text:p text:style-name="Text_20_body">Аббревиатура RISC была придумана примерно в 1980 году <text:span text:style-name="T6">п</text:span>рофессор<text:span text:style-name="T6">ом</text:span> Дэвид<text:span text:style-name="T6">ом</text:span> Паттерсон<text:span text:style-name="T6">ом</text:span> в Калифорнийском университете в Беркли, <text:span text:style-name="T6">который работал</text:span> с <text:span text:style-name="T6">п</text:span>рофессор<text:span text:style-name="T6">ом</text:span> Джон<text:span text:style-name="T6">ом</text:span> Хеннесси в Стэнфордском университете. <text:span text:style-name="T6">Они</text:span> выпустили свои знаменитые книги «Организация и проектирование компьютеров» и «Архитектура компьютеров: количественный подход». Благодаря работе над архитектурой RISC они получили ACM А. Премия М. Тьюринга в 2017 году.</text:p>
+   <text:p text:style-name="Text_20_body">Аббревиатура RISC была придумана примерно в 1980 году <text:span text:style-name="T6">п</text:span>рофессор<text:span text:style-name="T6">ом</text:span> Дэвид<text:span text:style-name="T6">ом</text:span> Паттерсон<text:span text:style-name="T6">ом</text:span> в Калифорнийском университете в Беркли, <text:span text:style-name="T6">который работал</text:span> с <text:span text:style-name="T6">п</text:span>рофессор<text:span text:style-name="T6">ом</text:span> Джон<text:span text:style-name="T6">ом</text:span> Хеннесси в Стэнфордском университете. <text:span text:style-name="T6">Они</text:span> выпустили свои знаменитые книги «Организация и проектирование компьютеров» и <text:soft-page-break/>«Архитектура компьютеров: количественный подход». Благодаря работе над архитектурой RISC они получили ACM А. Премия М. Тьюринга в 2017 году.</text:p>
    <text:p text:style-name="Text_20_body">Во многом история RISC связана с историей процессоров MIPS. Обе архитектуры процессоров имели большой коммерческий успех, хотя архитектуры RISC, вероятно, более узнаваемы по некоторым очень популярным разработкам, включая линейку Sun Microsystems’ SPARC, линейку DEC Alpha, процессоры Intel i860 и i960, а также вездесущие процессоры ARM, которые сегодня используются в миллиардах устройств многих производителей кремния. RISC-V - это последняя версия архитектуры этого набора инструкций.</text:p>
-   <text:p text:style-name="Text_20_body">Многие RISC, MIPS и другие разработки были «открытыми» в разной степени. В 2005 году компания Sun Microsystems открыла архитектуру SPARC, создав OpenSPARC проект под лицензией GNU Public License (GPL). OpenRISC проект предоставляет 32-битные и 64-битные ядра через OpenCores сообщество по <text:span text:style-name="T6">м</text:span>алой <text:soft-page-break/>общественной лицензии GNU (LGPL), которая несколько менее огранич<text:span text:style-name="T6">е</text:span>на, чем GPL. Архитектура MIPS, принадлежащая Wave Computing, была предоставлена по лицензии “открытого использования” в пилотной программе, которая закрылась в 2019 году. Даже ARM, которая ранее показывала свою архитектуру только платным лицензиатам, теперь частично открыла свою архитектуру для изменений со стороны своих партнеров. Все эти усилия направлены на то, чтобы сбалансировать потребности и стремления партнеров и заинтересованных сторон с реалиями рынка, международными законами об интеллектуальной собственности и историческим импульсом в отрасли, который продолжает вести к открытому исходному коду, открытым спецификациям и открытым стандартам.</text:p>
+   <text:p text:style-name="Text_20_body">Многие RISC, MIPS и другие разработки были «открытыми» в разной степени. В 2005 году компания Sun Microsystems открыла архитектуру SPARC, создав OpenSPARC проект под лицензией GNU Public License (GPL). OpenRISC проект предоставляет 32-битные и 64-битные ядра через OpenCores сообщество по <text:span text:style-name="T6">м</text:span>алой общественной лицензии GNU (LGPL), которая несколько менее огранич<text:span text:style-name="T6">е</text:span>на, чем GPL. Архитектура MIPS, принадлежащая Wave Computing, была предоставлена по лицензии “открытого использования” в пилотной программе, которая закрылась в 2019 году. Даже ARM, которая ранее показывала свою архитектуру только платным лицензиатам, теперь частично открыла свою архитектуру для изменений со стороны своих партнеров. Все эти усилия направлены на то, чтобы сбалансировать потребности и стремления партнеров и заинтересованных сторон с реалиями рынка, международными законами об интеллектуальной собственности и историческим импульсом в отрасли, который продолжает вести к открытому исходному коду, открытым спецификациям и открытым стандартам.</text:p>
    <text:p text:style-name="Text_20_body">Вывод заключается в том, что создание архитектуры набора инструкций — это одновременно и очень ценное усилие, и очень сложная задача. Это требует сотрудничества многих заинтересованных сторон, защиты от патентных троллей и других судебных исков, а также четкого пути к собственности для всех, кто основывает свои средства к существованию на результате. RISC-V добивается огромных успехов благодаря своей приверженности полностью открытой архитектуре, защите, предоставляемой и согласованной всеми членами, а также полной приверженности обществу.</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc524_1863926033"/>Истоки RISC-V: исследования архитектуры Калифорнийского университета в Беркли<text:bookmark-end text:name="__RefHeading___Toc524_1863926033"/></text:h>
    <text:p text:style-name="Text_20_body">Проф. Крсте Асанович <text:span text:style-name="T7">и</text:span> аспиранты Юнсуп Ли и Эндрю Уотерман начали набор инструкций RISC-V в мае 2010 года в рамках проекта Лаборатория параллельных вычислений (Par Lab) в Калифорнийском университете в Беркли, директором которого был профессор Дэвид Паттерсон. Par Lab — пятилетний проект по развитию параллельных вычислений, финансируемый Intel и Microsoft на сумму 10 миллионов долларов в течение 5 лет, с 2008 по 2013 год. Проект также получил финансирование от нескольких других компаний и штата Калифорния. Язык аппаратного построения Chisel, который использовался для проектирования многих процессоров RISC-V, также был разработан в Par Lab.</text:p>
    <text:p text:style-name="Text_20_body">Все проекты в Par Lab имели открытый исходный код с использованием лицензии Berkeley Software Distribution (BSD), включая RISC-V и Chisel.</text:p>
    <text:p text:style-name="Text_20_body">Сама спецификация ISA, т. е. кодировка набора инструкций, была выпущена с разрешительной лицензией (аналогичной языку лицензии BSD), когда были опубликованы технические отчеты ISA., хотя фактический текст технического отчета (выражение спецификации) позже был помещен под лицензию Creative Commons, чтобы позволить его улучшить внешним участникам, включая Фонд RISC-V.</text:p>
    <text:p text:style-name="Text_20_body">Ни в одном из этих проектов не было подано ни одного патента, связанного с RISC-V, поскольку сам RISC-V ISA не представляет собой какую-либо новую технологию. RISC-V ISA основан на идеях компьютерной архитектуры, которым не менее 40 лет. Реализации процессоров RISC –в том числе основанные на других открытых стандартах ISA– широко доступны у различных поставщиков по всему миру.</text:p>
-   <text:p text:style-name="Text_20_body">Мировой интерес к RISC-V обусловлен не тем, что это отличная новая технология чипов. Интерес заключается в том, что это общий свободный и открытый стандарт, на который можно портировать программное обеспечение и который позволяет любому свободно разрабатывать собственное оборудование для запуска программного обеспечения. RISC-V International не управляет и не предоставляет никаких реализаций RISC-V с открытым исходным кодом, а только стандартные спецификации. Программное обеспечение RISC-V управляется соответствующими проектами программного обеспечения с открытым исходным кодом.</text:p>
+   <text:p text:style-name="Text_20_body">Мировой интерес к RISC-V обусловлен не тем, что это отличная новая технология чипов. Интерес заключается в том, что это общий свободный и открытый стандарт, на который можно портировать программное обеспечение и который позволяет любому свободно разрабатывать собственное оборудование для запуска программного обеспечения. RISC-V International не управляет и не предоставляет никаких <text:soft-page-break/>реализаций RISC-V с открытым исходным кодом, а только стандартные спецификации. Программное обеспечение RISC-V управляется соответствующими проектами программного обеспечения с открытым исходным кодом.</text:p>
    <text:p text:style-name="Text_20_body">Рекомендуемое чтение: Оригинальная историческая статья под названием «<text:a xlink:type="simple" xlink:href="https://riscv.org/wp-content/uploads/2025/02/EECS-2016-6.pdf" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Генеалогия RISC-V</text:a>».</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc526_1863926033"/>Влияние DARPA<text:bookmark-end text:name="__RefHeading___Toc526_1863926033"/></text:h>
    <text:p text:style-name="Text_20_body">После изобретения RISC-V его использовали многочисленные компании во многих местах. Его использовали бесчисленные проекты, включая исследовательские программы, финансируемые Агентство перспективных исследовательских проектов Министерства обороны (<text:span text:style-name="T8">DARPA</text:span>).</text:p>
-   <text:p text:style-name="Text_20_body"><text:soft-page-break/>Калифорнийский университет в Беркли Лаборатория ASPIRE стал преемником Par Lab и возглавлялся Крсте Асановичем. Он продолжался с 2013 по 2018 год и привел к созданию нескольких микропроцессоров, совместимых с RISC-V. Проект финансировался DARPA, а также многими компаниями.</text:p>
+   <text:p text:style-name="Text_20_body">Калифорнийский университет в Беркли Лаборатория ASPIRE стал преемником Par Lab и возглавлялся Крсте Асановичем. Он продолжался с 2013 по 2018 год и привел к созданию нескольких микропроцессоров, совместимых с RISC-V. Проект финансировался DARPA, а также многими компаниями.</text:p>
    <text:p text:style-name="Text_20_body">Финансирование фундаментальных исследований университетами в основном осуществляется для проведения неограниченных исследований с разрешением на публичное распространение результатов. Этот контракт является стандартной моделью федеральных грантов США университетам и позволяет публиковать результаты финансируемой работы в открытой литературе и делать их доступными для широкой общественности по всему миру. Правительство сохраняет за собой право использовать любую технологию, разработанную в ходе исследования, но, если прямо не указано иное, не ограничивает эту технологию.</text:p>
    <text:p text:style-name="Text_20_body">Соответствующая программа фотоники DARPA существовала еще до RISC-V и финансировала исследования в Массачусетском технологическом институте в 2006 году. Исследование поддержало разработку интегрированной кремниевой фотоники. Более поздние этапы финансирования в Массачусетском технологическом институте и Беркли были использованы для создания прототипов чипов, которые включали ядра RISC-V в качестве инфраструктуры для демонстрации фотонных связей.</text:p>
    <text:p text:style-name="Text_20_body">Лаборатория ASPIRE финансировалась Программа DARPA «Революция энергоэффективности для встраиваемых вычислительных технологий» (PERFECT). Целью программы была разработка революционных подходов, а также технологий и методов, обеспечивающих энергоэффективность, необходимую для работы встраиваемых вычислительных систем. Для демонстрации идей этой программы исследователи использовали системы на базе RISC-V.</text:p>
@@ -3318,20 +3616,20 @@
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1204_125099491"/>Интересный факт: название RISC-V<text:bookmark-end text:name="__RefHeading___Toc1204_125099491"/></text:h>
    <text:p text:style-name="Text_20_body">Как RISC-V получил свое название? Часть RISC довольно очевидна, но почему она имеет номер 5 и почему она обозначена римской цифрой?</text:p>
    <text:p text:style-name="Text_20_body">Ответ содержится в сноске в <text:a xlink:type="simple" xlink:href="https://drive.google.com/file/d/1s0lZxUZaa7eV_O0_WsZzaurFLLww7ou5/view" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">введение спецификации ISA</text:a>:</text:p>
-   <text:p text:style-name="Text_20_body">Название RISC-V было выбрано для обозначения пятой основной конструкции RISC ISA Калифорнийского университета в Беркли (первыми четырьмя были RISC-I [15], RISC-II [8], SOAR [21] и SPUR [11]). Мы также каламбурим использование римской цифры “V” для обозначения “вариаций” и “векторов”, поскольку поддержка ряда архитектурных исследований, включая различные ускорители параллельных данных, является явной целью проекта ISA.</text:p>
+   <text:p text:style-name="Text_20_body">Название RISC-V было выбрано для обозначения пятой основной конструкции RISC ISA Калифорнийского университета в Беркли (первыми четырьмя были RISC-I [15], RISC-II [8], SOAR [21] и SPUR [11]). Мы также каламбурим использование римской цифры “V” для обозначения “вариаций” и “векторов”, поскольку <text:soft-page-break/>поддержка ряда архитектурных исследований, включая различные ускорители параллельных данных, является явной целью проекта ISA.</text:p>
    <text:h text:style-name="P21" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1206_125099491"/>RISC-V International<text:bookmark-end text:name="__RefHeading___Toc1206_125099491"/></text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1208_125099491"/>Введение в RISC-V International<text:bookmark-end text:name="__RefHeading___Toc1208_125099491"/></text:h>
    <text:p text:style-name="Text_20_body">Так что RISC-V — это действительно сообщество. Фактически, это глобальное сообщество, охватывающее более 40 стран и тысячи людей. В основе этого сообщества лежит его дом и руководящая сила — Международная ассоциация RISC-V.</text:p>
-   <text:p text:style-name="Text_20_body"><text:soft-page-break/>RISC-V International, швейцарская некоммерческая организация, была создана для организации деятельности по разработке ISA, а также других артефактов, включая программное обеспечение, спецификации, отличные от ISA, системы тестирования и соответствия требованиям и многое другое. RISC-V организован его членами и для них, в число которых входят более 200 крупных и малых организаций, а также многие сотни индивидуальных членов, которые участвуют самостоятельно, помимо компаний или университетов. В совет директоров входят представители с правом голоса всех уровней членства, поэтому RISC-V действительно является эгалитарной общественной организацией.</text:p>
+   <text:p text:style-name="Text_20_body">RISC-V International, швейцарская некоммерческая организация, была создана для организации деятельности по разработке ISA, а также других артефактов, включая программное обеспечение, спецификации, отличные от ISA, системы тестирования и соответствия требованиям и многое другое. RISC-V организован его членами и для них, в число которых входят более 200 крупных и малых организаций, а также многие сотни индивидуальных членов, которые участвуют самостоятельно, помимо компаний или университетов. В совет директоров входят представители с правом голоса всех уровней членства, поэтому RISC-V действительно является эгалитарной общественной организацией.</text:p>
    <text:p text:style-name="Text_20_body">RISC-V International предоставляет все виды управленческой деятельности, необходимые глобальной организации — исполнительное управление, продвижение и маркетинг, поддержка членов, операционная поддержка, управление техническими программами и креативные услуги. Он также обеспечивает юридическую поддержку интеллектуальной собственности RISC-V, которая включает спецификации, а также товарные знаки и изображения RISC-V.</text:p>
    <text:p text:style-name="Text_20_body">RISC-V International нанимает небольшой штат сотрудников для оказания помощи и руководства сообществом в самоорганизации, а также поддерживает контракт с Linux Foundation на предоставление управленческих услуг, включая человеческие ресурсы, ИТ-поддержку и поддержку инструментов, финансовую поддержку и многое другое. Linux Foundation обладает многолетним опытом управления фондами и проектами с открытым исходным кодом, что приносит непосредственную пользу сообществу RISC-V, помогая ему достичь своей миссии.</text:p>
    <text:p text:style-name="Text_20_body">RISC-V International не производит оборудование. Вместо этого он предоставляет всем своим организациям-членам основу для создания новых технологий на основе основополагающей поддержки RISC-V ISA. Будучи проектом открытых спецификаций, RISC-V в основном создает документацию в форме спецификаций, таких как архитектура набора инструкций, спецификации тестирования и отладки, спецификация трассировки и другие связанные артефакты. Они производятся в ходе совместного процесса тысяч людей при строгой обратной связи и контроле. Компания RISC-V International была основана для руководства этим процессом, разработки спецификаций с использованием передового опыта как организаций по стандартизации, так и процесса разработки ПО с открытым исходным кодом, а также для обеспечения ценности как для членов, так и для более широкого сообщества.</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1210_125099491"/>Эволюция RISC-V International<text:bookmark-end text:name="__RefHeading___Toc1210_125099491"/></text:h>
    <text:p text:style-name="Text_20_body">Фонд RISC-V был основан в 2015 году с целью создания открытого, совместного сообщества новаторов в области программного и аппаратного обеспечения на основе RISC-V ISA. Фонд, некоммерческая корпорация, контролируемая его членами, руководил разработкой, чтобы стимулировать первоначальное внедрение RISC-V ISA.</text:p>
    <text:p text:style-name="Text_20_body">В 2018–2019 годах сообщество RISC-V размышляло о геополитической ситуации и слышало обеспокоенность со всего мира по поводу того, что инвестиции в RISC-V должны сопровождаться непрерывностью доступа по IP, чтобы обеспечить долгосрочные стратегические инвестиции.</text:p>
-   <text:p text:style-name="Text_20_body">Регистрация в Швейцарии позволяет развеять опасения относительно политического подрыва модели открытого сотрудничества. Будучи некоммерческой организацией, основанной на членстве, RISC-V International не сохраняет никаких коммерческих интересов в отношении продуктов или услуг. В США не было никаких ограничений на экспорт RISC-V. Этот шаг не обходит какие-либо существующие ограничения, а скорее снижает неопределенность в будущем.</text:p>
+   <text:p text:style-name="Text_20_body">Регистрация в Швейцарии позволяет развеять опасения относительно политического подрыва модели открытого сотрудничества. Будучи некоммерческой организацией, основанной на членстве, RISC-V International не сохраняет никаких коммерческих интересов в отношении продуктов или услуг. В США не <text:soft-page-break/>было никаких ограничений на экспорт RISC-V. Этот шаг не обходит какие-либо существующие ограничения, а скорее снижает неопределенность в будущем.</text:p>
    <text:p text:style-name="Text_20_body">В марте 2020 года Международная ассоциация RISC-V была зарегистрирована в Швейцарии. Наряду с этим произошел переход к новой, более инклюзивной структуре членства. Члены RISC-V International не только имеют доступ к спецификации RISC-V ISA, расширениям и соответствующему оборудованию и программному обеспечению, но также имеют право участвовать в разработке этих компонентов.</text:p>
-   <text:p text:style-name="Text_20_body">Интеллектуальная собственность, предоставленная и созданная RISC-V International, хранится в соответствии с отраслевыми и мировыми стандартными лицензиями, которые уже открыты для использования любой компанией независимо от юрисдикции. Такое лицензирование представляет собой распространенный подход <text:soft-page-break/>с открытым исходным кодом, направленный на развитие сотрудничества, не привязанного к какому-либо географическому регулированию. IP с открытым исходным кодом не подлежит экспортному контролю.</text:p>
+   <text:p text:style-name="Text_20_body">Интеллектуальная собственность, предоставленная и созданная RISC-V International, хранится в соответствии с отраслевыми и мировыми стандартными лицензиями, которые уже открыты для использования любой компанией независимо от юрисдикции. Такое лицензирование представляет собой распространенный подход с открытым исходным кодом, направленный на развитие сотрудничества, не привязанного к какому-либо географическому регулированию. IP с открытым исходным кодом не подлежит экспортному контролю.</text:p>
    <text:p text:style-name="Text_20_body">Мы призываем организации, отдельных лиц и энтузиастов присоединиться к нашей экосистеме и вместе открыть новую эру инноваций в области процессоров посредством сотрудничества в области открытых стандартов и открытого исходного кода.</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1212_125099491"/><text:span text:style-name="T11">Ч</text:span>ленство <text:span text:style-name="T11">в </text:span>RISC-V <text:span text:style-name="T12">International</text:span><text:bookmark-end text:name="__RefHeading___Toc1212_125099491"/></text:h>
    <text:p text:style-name="Text_20_body">RISC-V — некоммерческая организация, основанная на членстве, которая управляется своими членами посредством представительного управления в совете директоров, техническом руководящем комитете и многих других рабочих комитетах.</text:p>
@@ -3343,10 +3641,10 @@
    <text:p text:style-name="P22">Все члены организации — премьер-министр, стратегическая организация и общественная организация — имеют доступ к товарному знаку RISC-V, который включает название и логотип RISC-V.</text:p>
    <text:p text:style-name="P22">Типы членства</text:p>
    <text:p text:style-name="P23">Платное членство</text:p>
-   <text:p text:style-name="P22">Члены становятся Премьер-член<text:span text:style-name="T13">ами,</text:span> чтобы иметь место за столом переговоров по управлению самим RISC-V. Члены Premier TSC получают место в Техническом руководящем комитете, который управляет техническим процессом, в то время как полноправные члены уровня Premier получают место в Совете директоров, а также в TSC.</text:p>
+   <text:p text:style-name="P22"><text:soft-page-break/>Члены становятся Премьер-член<text:span text:style-name="T13">ами,</text:span> чтобы иметь место за столом переговоров по управлению самим RISC-V. Члены Premier TSC получают место в Техническом руководящем комитете, который управляет техническим процессом, в то время как полноправные члены уровня Premier получают место в Совете директоров, а также в TSC.</text:p>
    <text:p text:style-name="P22">Стратегические члены составляют наибольшую долю членов RISC-V и включают компании из десятков отраслей, а также ряд академических учреждений, которые хотят поддержать RISC-V финансово. Стратегические члены платят взносы в зависимости от размера своей организации, при этом доступны четыре уровня. Стратегические члены ежегодно избирают трех представителей в Совет директоров.</text:p>
    <text:p text:style-name="P23">Бесплатное членство</text:p>
-   <text:p text:style-name="P22"><text:soft-page-break/>Общественные организации включают академические и некоммерческие организации, многие из которых также участвуют в работе Специальной группы по интересам «Академия и обучение» для обмена идеями и образовательными материалами. Общественные организации не платят взносов, хотя многие из них предпочитают спонсировать мероприятия RISC-V. Общественные организации ежегодно избирают одного представителя в Совет директоров своей группы.</text:p>
+   <text:p text:style-name="P22">Общественные организации включают академические и некоммерческие организации, многие из которых также участвуют в работе Специальной группы по интересам «Академия и обучение» для обмена идеями и образовательными материалами. Общественные организации не платят взносов, хотя многие из них предпочитают спонсировать мероприятия RISC-V. Общественные организации ежегодно избирают одного представителя в Совет директоров своей группы.</text:p>
    <text:p text:style-name="P22">Лица сообщества являются одними из самых активных членов сообщества RISC-V. Во всех технических и не технических рабочих группах, а также в группах по интересам есть активные лица. Граждане сообщества не платят никаких взносов и ежегодно избирают одного представителя в Совет директоров своей группы. У частных лиц нет доступа к торговой марке RISC-V, но многие из них могут убедить своих работодателей или другие организации, с которыми они связаны, присоединиться к RISC-V как к организации.</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1214_125099491"/>RISC-V <text:span text:style-name="T12">International</text:span> управление<text:bookmark-end text:name="__RefHeading___Toc1214_125099491"/></text:h>
    <text:p text:style-name="Text_20_body">RISC-V International управляется Советом директоров. Совет состоит из директоров, избираемых для представления всех классов членов, чтобы обеспечить предоставление стратегического голоса на всех уровнях. Кроме того, Технический руководящий комитет (TSC) осуществляет руководство техническими инициативами организации по разработке долгосрочной стратегии, формированию тактических комитетов и рабочих групп, а также утверждению технических результатов для ратификации или публикации.</text:p>
@@ -3359,7 +3657,7 @@
    <text:p text:style-name="Text_20_body">Кроме того, существуют три публичных форума, в которых может принять участие любой желающий:</text:p>
    <text:list text:style-name="L12">
     <text:list-item>
-     <text:p text:style-name="P24">Публичные списки рассылки RISC-V, в частности <text:a xlink:type="simple" xlink:href="https://groups.google.com/u/1/a/groups.riscv.org/g/isa-dev" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">ISA-Dev</text:a> и <text:a xlink:type="simple" xlink:href="https://groups.google.com/u/1/a/groups.riscv.org/g/sw-dev" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">SW-Dev</text:a>, которые восходят к самым ранним дням RISC-V</text:p>
+     <text:p text:style-name="P24"><text:soft-page-break/>Публичные списки рассылки RISC-V, в частности <text:a xlink:type="simple" xlink:href="https://groups.google.com/u/1/a/groups.riscv.org/g/isa-dev" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">ISA-Dev</text:a> и <text:a xlink:type="simple" xlink:href="https://groups.google.com/u/1/a/groups.riscv.org/g/sw-dev" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">SW-Dev</text:a>, которые восходят к самым ранним дням RISC-V</text:p>
     </text:list-item>
     <text:list-item>
      <text:p text:style-name="P24"><text:a xlink:type="simple" xlink:href="https://exchange.riscv.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Форумы обмена</text:a> которые обеспечивают целенаправленную тему для обсуждения элементов, появляющихся на бирже RISC-V</text:p>
@@ -3368,7 +3666,7 @@
      <text:p text:style-name="P24"><text:a xlink:type="simple" xlink:href="https://risc-v-international.slack.com/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Канал RISC-V Slack</text:a> для живого чата</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1220_125099491"/><text:soft-page-break/>Отношения RISC-V с Linux Foundation<text:bookmark-end text:name="__RefHeading___Toc1220_125099491"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1220_125099491"/>Отношения RISC-V с Linux Foundation<text:bookmark-end text:name="__RefHeading___Toc1220_125099491"/></text:h>
    <text:p text:style-name="Text_20_body">В ноябре 2018 года фонд RISC-V объявил о совместном сотрудничестве с Linux Foundation. В рамках этого сотрудничества Linux Foundation предоставляет операционную, техническую и стратегическую поддержку RISC-V International, включая управление участниками, бухгалтерский учет, программы обучения, инфраструктурные инструменты, работу с общественностью, маркетинг, юридические и другие услуги и экспертные знания с открытым исходным кодом.</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1222_125099491"/>Экосистема RISC-V<text:bookmark-end text:name="__RefHeading___Toc1222_125099491"/></text:h>
    <text:p text:style-name="Text_20_body">Как упоминалось ранее, RISC-V полагается на своих членов в своей работе. Объединение участников из самых разных технических и прикладных областей известно как экосистема RISC-V. Вы можете просмотреть полный обзор, посетив сайт<text:a xlink:type="simple" xlink:href="http://landscape.riscv.org/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"> RISC-V Landscape</text:a>. </text:p>
@@ -6961,8 +7259,8 @@
        </draw:frame>Рисунок <text:sequence text:ref-name="refDrawing0" text:name="Drawing" text:formula="ooow:Drawing+1" style:num-format="1">1</text:sequence>: Богатая экосистема RISC-V доступна сегодня. Изображение предоставлено RISC-V International</text:p>
      </draw:text-box>
     </draw:frame>Экосистема RISC-V постоянно растет, поскольку продолжает появляться все больше и больше областей применения. Экосистема RISC-V также организована отдельно в определенных сегментах. Например, вы можете узнать об экосистеме программного обеспечения RISC-V, посетив сайт <text:a xlink:type="simple" xlink:href="https://riseproject.dev/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">проекта Rise</text:a>. Это инициатива лидеров отрасли по содействию разработке открытого программного обеспечения для RISC-V.</text:p>
-   <text:p text:style-name="Text_20_body">Просто взглянув на логотипы основных участников, вы можете получить представление о том, насколько серьезн<text:span text:style-name="T14">о</text:span> индустрия программного обеспечения относится к RISC-V и какой тип инвестиций вкладывается в будущее вычислений с этой архитектурой.</text:p>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1224_125099491"/><text:soft-page-break/>Каналы связи<text:bookmark-end text:name="__RefHeading___Toc1224_125099491"/></text:h>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>Просто взглянув на логотипы основных участников, вы можете получить представление о том, насколько серьезн<text:span text:style-name="T14">о</text:span> индустрия программного обеспечения относится к RISC-V и какой тип инвестиций вкладывается в будущее вычислений с этой архитектурой.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1224_125099491"/>Каналы связи<text:bookmark-end text:name="__RefHeading___Toc1224_125099491"/></text:h>
    <text:p text:style-name="Text_20_body">Коммуникация является наиболее важной частью разработки на уровне сообщества, будь то программное обеспечение с открытым исходным кодом, открытые спецификации, открытые стандарты или любой другой тип разработки общих ресурсов. RISC-V использует передовой опыт, основанный на многолетнем опыте работы с открытым исходным кодом и академической средой.</text:p>
    <text:p text:style-name="Text_20_body">Точки связи и как к ним получить доступ:</text:p>
    <text:p text:style-name="P9">Списки рассылки</text:p>
@@ -6979,8 +7277,8 @@
    <text:p text:style-name="P25">Группы общественного обсуждения</text:p>
    <text:p text:style-name="P26">Существует также набор списков для публичного обсуждения, не требующих членства. Вы можете присоединиться к этим и другим обсуждениям, используя ссылки из <text:a xlink:type="simple" xlink:href="https://riscv.org/technical/technical-forums/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">техническ<text:span text:style-name="T2">ой</text:span> страниц<text:span text:style-name="T2">ы</text:span></text:a> на сайте RISC-V International.</text:p>
    <text:p text:style-name="P25">Публичные конференции, семинары и местные мероприятия</text:p>
-   <text:p text:style-name="P26">RISC-V International ежегодно проводит ряд мероприятий, кульминацией которых является наш ежегодный саммит RISC-V в декабре. Кроме того, RISC-V спонсирует и участвует во многих отраслевых мероприятиях, а филиалы RISC-V также проводят мероприятия по всему миру. В частности, местные мероприятия предоставляют прекрасную возможность узнать больше о RISC-V и встретиться с людьми в определенных регионах. События отслеживаются на <text:a xlink:type="simple" xlink:href="https://riscv.org/events" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T2">с</text:span>айт<text:span text:style-name="T2">е</text:span> RISC-V</text:a> и часто обсуждается на заседаниях комитета по маркетинговым мероприятиям.</text:p>
-   <text:p text:style-name="P26"><text:soft-page-break/>Техническая организация работает на основе группы политик, которые часто обновляются с целью включения в них передового опыта. Эти политики составляют основу процессов разработки в рамках RISC-V и позволяют более чем 2000 разработчикам работать вместе.</text:p>
+   <text:p text:style-name="P26">RISC-V International ежегодно проводит ряд мероприятий, кульминацией которых является наш ежегодный саммит RISC-V в декабре. Кроме того, RISC-V спонсирует и участвует во многих отраслевых мероприятиях, а филиалы RISC-V также проводят мероприятия по всему миру. В частности, местные мероприятия <text:soft-page-break/>предоставляют прекрасную возможность узнать больше о RISC-V и встретиться с людьми в определенных регионах. События отслеживаются на <text:a xlink:type="simple" xlink:href="https://riscv.org/events" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T2">с</text:span>айт<text:span text:style-name="T2">е</text:span> RISC-V</text:a> и часто обсуждается на заседаниях комитета по маркетинговым мероприятиям.</text:p>
+   <text:p text:style-name="P26">Техническая организация работает на основе группы политик, которые часто обновляются с целью включения в них передового опыта. Эти политики составляют основу процессов разработки в рамках RISC-V и позволяют более чем 2000 разработчикам работать вместе.</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1226_125099491"/>Биржа RISC-V<text:bookmark-end text:name="__RefHeading___Toc1226_125099491"/></text:h>
    <text:p text:style-name="Text_20_body"><text:a xlink:type="simple" xlink:href="https://riscv.org/exchange/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Биржа RISC-V</text:a> это специальный ресурс, который дает представление о работе, которую люди проделали по всему миру в сообществе RISC-V, включая образовательные материалы, физическое оборудование, IP-ядра и большое количество программного обеспечения. Этот раздел нашего веб-сайта растет по мере продолжения создания аппаратного и программного обеспечения.</text:p>
    <text:p text:style-name="Text_20_body">Ресурсы обмена RISC-V:</text:p>
@@ -7016,10 +7314,10 @@
      <text:p text:style-name="P27">Пишите и делитесь своими собственными проектами RISC-V.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P27">Для получения подробного списка способов, которыми вы можете внести свой вклад, обязательно ознакомьтесь с презентацией &quot;<text:a xlink:type="simple" xlink:href="https://docs.google.com/presentation/d/1Q8gMcVwzqdqym3ugl_Q-LW0KMUApO-v8mWVdjqQE-MI/edit?usp=sharing" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Преимущества для участников RISC-V и Приветствие</text:a>&quot;.</text:p>
+     <text:p text:style-name="P27"><text:soft-page-break/>Для получения подробного списка способов, которыми вы можете внести свой вклад, обязательно ознакомьтесь с презентацией &quot;<text:a xlink:type="simple" xlink:href="https://docs.google.com/presentation/d/1Q8gMcVwzqdqym3ugl_Q-LW0KMUApO-v8mWVdjqQE-MI/edit?usp=sharing" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Преимущества для участников RISC-V и Приветствие</text:a>&quot;.</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1230_125099491"/><text:soft-page-break/>Виды взносов<text:bookmark-end text:name="__RefHeading___Toc1230_125099491"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1230_125099491"/>Виды взносов<text:bookmark-end text:name="__RefHeading___Toc1230_125099491"/></text:h>
    <text:p text:style-name="P9">Технические вклады</text:p>
    <text:p text:style-name="Text_20_body">Чтобы узнать о процессе участия в RISC-V на техническом уровне, прочтите <text:a xlink:type="simple" xlink:href="https://docs.google.com/document/d/1Qjf6BwMmtqTfzftr3WWf2bRv8Cl4f0qZrWWbr0jCBSU/edit#heading=h.xxadm6tcndk9" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Руководство по началу работы разработчика</text:a> в <text:a xlink:type="simple" xlink:href="https://wiki.riscv.org/display/HOME/Home" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T16">Технической вики RISC-V</text:span></text:a>.</text:p>
    <text:p text:style-name="Text_20_body">Чтобы внести свой вклад в спецификацию или техническую область, вы можете искать <text:a xlink:type="simple" xlink:href="https://lists.riscv.org/g/main" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T16">наиболее релевантную группу в Groups.IO</text:span></text:a>, присоединяйтесь к не<text:span text:style-name="T16">й</text:span>, следите за обсуждениями в списке рассылки, посещайте встречи и добровольно помогайте.</text:p>
@@ -7052,8 +7350,8 @@
    <text:h text:style-name="P32" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc1236_125099491"/>Введение<text:bookmark-end text:name="__RefHeading___Toc1236_125099491"/></text:h>
    <text:h text:style-name="P33" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1238_125099491"/>Обзор и цели главы<text:bookmark-end text:name="__RefHeading___Toc1238_125099491"/></text:h>
    <text:p text:style-name="P34">Пришло <text:s/>время перейти к техническим вопросам.</text:p>
-   <text:p text:style-name="P34">В этой главе мы рассмотрим суть <text:span text:style-name="T1">RISC-V —</text:span><text:span text:style-name="T2"> архитектуру набора инмктрукций </text:span><text:span text:style-name="T1">(ISA). </text:span><text:span text:style-name="T2">Мы раскроем мир форматов инструкций </text:span><text:span text:style-name="T1">RISC-V: </text:span><text:span text:style-name="T2">мы рассмотрим эти разнообразные форматы от </text:span><text:span text:style-name="T1">R-</text:span><text:span text:style-name="T2">типа до </text:span><text:span text:style-name="T1">J-</text:span><text:span text:style-name="T2">типа, определяющие структуру инструкций. Вы получите базовое представление о том, как оюраюатываются данные в архитектуре </text:span><text:span text:style-name="T1">RISC-V.</text:span></text:p>
-   <text:p text:style-name="P35"><text:soft-page-break/>Углубляясь, мы изучим модульную природу RISC-V, чтобы узнать о его базовых ISA и многочисленных вариантах расширений ISA, разработанных для того, чтобы позволить RISC-V удовлетворять вычислительные требования всего спектра современных приложений.</text:p>
+   <text:p text:style-name="P34">В этой главе мы рассмотрим суть <text:span text:style-name="T1">RISC-V —</text:span><text:span text:style-name="T2"> архитектуру набора инмктрукций </text:span><text:span text:style-name="T1">(ISA). </text:span><text:span text:style-name="T2">Мы раскроем мир форматов инструкций </text:span><text:span text:style-name="T1">RISC-V: </text:span><text:span text:style-name="T2">мы рассмотрим эти разнообразные форматы от </text:span><text:span text:style-name="T1">R-</text:span><text:span text:style-name="T2">типа до </text:span><text:span text:style-name="T1">J-</text:span><text:span text:style-name="T2">типа, </text:span><text:soft-page-break/><text:span text:style-name="T2">определяющие структуру инструкций. Вы получите базовое представление о том, как оюраюатываются данные в архитектуре </text:span><text:span text:style-name="T1">RISC-V.</text:span></text:p>
+   <text:p text:style-name="P35">Углубляясь, мы изучим модульную природу RISC-V, чтобы узнать о его базовых ISA и многочисленных вариантах расширений ISA, разработанных для того, чтобы позволить RISC-V удовлетворять вычислительные требования всего спектра современных приложений.</text:p>
    <text:p text:style-name="P35">Наше путешествие не было бы полным без изучения файла<text:span text:style-name="T2"> </text:span><text:span text:style-name="T17">регистров</text:span><text:span text:style-name="T2"> </text:span>RISC-V. Эти регистры служат подопытными кроликами архитектуры, храня данные и наблюдая за их обработкой во время выполнения программы. Мы расшифруем назначение различных регистров, проливая свет на их роль в языке ассемблера.</text:p>
    <text:p text:style-name="P35">Кроме того, в ISA вы узнаете об основных принципах, лежащих в основе RISC-V. От фиксированной длины инструкций до архитектуры загрузки/хранения — эти принципы являются воплощением простоты, эффективности и совместимости, которые делают RISC-V новаторской технологией.</text:p>
    <text:p text:style-name="P35">К концу этой главы вы <text:span text:style-name="T18">будете уметь</text:span>:</text:p>
@@ -7089,8 +7387,8 @@
    </text:list>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc1244_125099491"/>RISC-V: модульная ISA<text:bookmark-end text:name="__RefHeading___Toc1244_125099491"/></text:h>
    <text:p text:style-name="Text_20_body">Будучи пятым поколением исследовательского проекта, начатого в 1980 году, RISC-V представляет собой опытную архитектуру, призванную добиться успеха там, где другие потерпели неудачу в прошлом, учась на своих ошибках. По этой причине RISC-V был разработан как модульный ISA, в отличие от традиционных инкрементных ISA в коммерческих процессорах, таких как семейство ARM Cortex.</text:p>
-   <text:p text:style-name="Text_20_body">Такая модульность означает, что реализация RISC-V состоит из обязательной базовой ISA и ряда расширений ISA, что позволяет адаптировать пользовательские процессоры к потребностям приложения. Любое расширение может быть использовано или исключено для конкретной реализации.</text:p>
-   <text:p text:style-name="Text_20_body"><text:soft-page-break/>И наоборот, инкрементная архитектура требует, чтобы ISA содержала все ISA, содержащиеся в ISA, которую она расширяет. Например, набор инструкций ARM Cortex-M4 содержит все инструкции из набора инструкций Cortex-M3 и, в свою очередь, все инструкции из набора инструкций Cortex-M0+. Процессор ARM Cortex-M4 не может содержать только инструкции из наборов инструкций M4 и M0+, пропуская инструкции набора инструкций M3 посередине.</text:p>
+   <text:p text:style-name="Text_20_body"><text:soft-page-break/>Такая модульность означает, что реализация RISC-V состоит из обязательной базовой ISA и ряда расширений ISA, что позволяет адаптировать пользовательские процессоры к потребностям приложения. Любое расширение может быть использовано или исключено для конкретной реализации.</text:p>
+   <text:p text:style-name="Text_20_body">И наоборот, инкрементная архитектура требует, чтобы ISA содержала все ISA, содержащиеся в ISA, которую она расширяет. Например, набор инструкций ARM Cortex-M4 содержит все инструкции из набора инструкций Cortex-M3 и, в свою очередь, все инструкции из набора инструкций Cortex-M0+. Процессор ARM Cortex-M4 не может содержать только инструкции из наборов инструкций M4 и M0+, пропуская инструкции набора инструкций M3 посередине.</text:p>
    <text:p text:style-name="Text_20_body">Популярное ядро RISC-V для ряда встраиваемых микроконтроллеров, доступных сегодня, реализует RV32IMAC ISA. Давайте обсудим, что означает эта номенклатура.</text:p>
    <text:p text:style-name="Text_20_body">Соглашение об именовании пользовательских ISA RISC-V состоит из букв RV (для RISC-V), за которыми следует разрядность, а затем ряда однобуквенных идентификаторов для базового ISA и его расширений.</text:p>
    <text:p text:style-name="Text_20_body">Имея это в виду, RV32IMAC означает:</text:p>
@@ -28226,9 +28524,9 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P95">Не стесняйтесь возвращаться к этому материалу, если вам понадобится освежить его в памяти в будущем.</text:p>
-   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:soft-page-break/>04. Практический язык ассемблера RISC-V</text:h>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2">Вступление</text:h>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">Обзор главы и цели</text:h>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc3914_125099491"/><text:soft-page-break/>04. Практический язык ассемблера RISC-V<text:bookmark-end text:name="__RefHeading___Toc3914_125099491"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc3916_125099491"/>Вступление<text:bookmark-end text:name="__RefHeading___Toc3916_125099491"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc3918_125099491"/>Обзор главы и цели<text:bookmark-end text:name="__RefHeading___Toc3918_125099491"/></text:h>
    <text:p text:style-name="Text_20_body">В этой главе речь пойдет о языке ассемблера RISC-V: о тонкостях, лежащих в основе работы систем на основе RISC-V. Мы рассмотрим язык, который связывает то, что мы понимаем, с тем, что может выполнять машина. Это похоже на изучение закулисного сценария, который лежит в основе вашего любимого шоу. Мы познакомимся с документацией по языку ассемблера RISC-V, его возможностями и некоторыми аспектами программирования на ассемблере. Мы также узнаем о многих элементах программы на языке ассемблера. Среди этих элементов у нас есть директивы, метки, мнемоники, операнды, непосредственные действия, инструкции и псевдоинструкции.<text:line-break/>Этот курс предназначен для широкой публики, поэтому наши ожидания очень просты, и к нему нет жестких требований. Вы можете попробовать примеры программирования в симуляторе, который мы будем использовать (или в любом другом по вашему выбору), но это, конечно, не обязательно. Вы можете просто сидеть сложа руки и наслаждаться шоу.</text:p>
    <text:p text:style-name="Text_20_body">К концу этой главы вы должны быть в состоянии:</text:p>
    <text:list text:style-name="L36">
@@ -28249,8 +28547,378 @@
     </text:list-item>
    </text:list>
    <text:p text:style-name="P95">Приготовьтесь погрузиться в суть того, как на самом деле работает RISC-V!</text:p>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2">Специфичный для RISC-V язык ассемблера</text:h>
-   <text:h text:style-name="Heading_20_3" text:outline-level="3">О языке ассемблера</text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc3920_125099491"/>Специфичный для RISC-V язык ассемблера<text:bookmark-end text:name="__RefHeading___Toc3920_125099491"/></text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc3922_125099491"/>О языке ассемблера<text:bookmark-end text:name="__RefHeading___Toc3922_125099491"/></text:h>
+   <text:p text:style-name="Text_20_body">Сейчас вы познакомитесь с синтаксисом языка ассемблера RISC-V. Компьютеры выполняют программы, хранящиеся в памяти в виде двоичных данных. Эти данные кодируются в виде машинного кода, который понятен центральному процессору. Некоторыми примерами команд машинного кода RISC-V являются 0x000012B7, 0x00028313, 0x00500393 и 0x00000E13. Понятно, что машинный код не очень удобен для человека.<text:line-break/>Язык ассемблера отличается от машинного языка тем, что он является понятным для человека представлением машинного языка. Все инструкции на языке ассемблера и псевдоинструкции имеют точный перевод на соответствующие инструкции на машинном языке.<text:line-break/>С точки зрения уровней абстракции, язык ассемблера обладает самой низкой степенью абстракции с точки зрения программиста. Еще более низкие уровни можно найти в машинном коде, логических состояниях, хранящихся в памяти, и электрических сигналах, проходящих через аппаратное обеспечение. Тем не менее, программисты обычно начинают с языка ассемблера как самого низкого уровня абстракции в компьютерном программировании. <text:line-break/>Ассемблерный код находится на более низком уровне абстракции по сравнению с языками программирования высокого уровня, такими как C или Python. Хотя большая часть кода обычно написана на языке высокого уровня, иногда у пользователя нет другого выбора, кроме как писать непосредственно на языке ассемблера.</text:p>
+   <text:h text:style-name="P97" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc4619_125099491"/><text:soft-page-break/>Возможности<text:bookmark-end text:name="__RefHeading___Toc4619_125099491"/></text:h>
+   <text:p text:style-name="P95">Язык ассемблера RISC-V обладает рядом возможностей, которые тесно связаны с возможностями RISC-V ISA. Среди прочих возможностей у нас есть следующие:</text:p>
+   <text:list text:style-name="L37">
+    <text:list-item>
+     <text:p text:style-name="P98">Язык был разработан с учетом простоты.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P98">Как правило, для таких двоичных операций, как сложение, AND, XOR или умножение и т.д., задаются 3 операнда: 2 исходных регистра с доступом для чтения и 1 результирующий регистр с доступом для записи.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P98">Поддержка псевдоинструкций для облегчения написания ассемблерного кода.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P98">Прямой перевод между языком ассемблера и машинным языком.</text:p>
+    </text:list-item>
+   </text:list>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc4621_125099491"/>Как работает язык ассемблера RISC-V<text:bookmark-end text:name="__RefHeading___Toc4621_125099491"/></text:h>
+   <text:p text:style-name="Text_20_body">Синтаксис языка ассемблера RISC-V может варьироваться в зависимости от конкретного варианта или расширения архитектуры и используемого ассемблера (программы, которая считывает текстовый файл с ассемблерным кодом и создает машинный код).</text:p>
+   <text:p text:style-name="P40">Элементы языка ассемблера RISC-V</text:p>
+   <text:p text:style-name="P99">Инструкции</text:p>
+   <text:p text:style-name="P100">Набор базовых операций, таких как арифметика, загрузка/сохранение и управление потоком, которые выполняются процессором. В общем случае инструкции состоят из мнемонического кода (краткое, но описательное название инструкции) и последовательности операндов (регистров или данных, с которыми нужно работать).</text:p>
+   <text:p text:style-name="P99">Регистры</text:p>
+   <text:p text:style-name="P100">Процессорные ячейки внутренней памяти, используемые для хранения промежуточных результатов и управляющей информации.</text:p>
+   <text:p text:style-name="P99">Метки</text:p>
+   <text:p text:style-name="P100">Символьные имена для ячеек памяти, которые могут использоваться в качестве целевых объектов для инструкций перехода.</text:p>
+   <text:p text:style-name="P99">Директивы</text:p>
+   <text:p text:style-name="P100">Специальные команды, используемые для управления поведением ассемблера, такие как установка областей памяти или определение констант.</text:p>
+   <text:p text:style-name="P99">Макросы</text:p>
+   <text:p text:style-name="P100">Определяемые пользователем последовательности инструкций, которые могут быть вызваны одним вызовом макроса.</text:p>
+   <text:p text:style-name="P99">Псевдоинструкции</text:p>
+   <text:p text:style-name="P100">Синтетические инструкции, которые переводятся ассемблером в одну или несколько реальных инструкций, что позволяет получить более высокоуровневое и краткое представление кода.</text:p>
+   <text:p text:style-name="P100">Эти элементы объединяются для создания программ на RISC-V, которые затем собираются в машинный код и выполняются процессором.</text:p>
+   <text:h text:style-name="P97" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc4623_125099491"/>Синтаксис языка Ассемблер<text:bookmark-end text:name="__RefHeading___Toc4623_125099491"/></text:h>
+   <text:p text:style-name="P95">Синтаксис языка ассемблера RISC-V соответствует типичным правилам языка ассемблера для других процессоров, поддерживая базовые элементы, такие как инструкции и надписи, а также директивы и средства для определения требований к хранилищу.<text:line-break/><text:soft-page-break/>Как правило, исходный файл ассемблера состоит из серии блоков кода, каждый из которых определяет свой раздел памяти и требования к хранилищу.<text:line-break/>Далее мы увидим, что означают все части программы на ассемблере. А пока давайте рассмотрим пример Hello World, приведенный в книге The RISC-V Reader. Он содержит блок исполняемого кода в текстовом разделе и блок данных с двумя строками в разделе данных, доступном только для чтения.</text:p>
+   <text:p text:style-name="P101"><text:span text:style-name="Strong_20_Emphasis"><text:s text:c="2"/>.text                      <text:s text:c="13"/># </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T29">Директива — вход в секцию </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T30">text</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:line-break/>  .align 2                  <text:s text:c="12"/># </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T29">Директива — выравнивание кода 2</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T30">^2 </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T31">байта</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:line-break/>  .globl main            <text:s text:c="11"/># </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T29">Директива — объявление глобального символа </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T30">main</text:span></text:span></text:p>
+   <text:p text:style-name="P101"><text:span text:style-name="Strong_20_Emphasis">main:                        <text:s text:c="11"/># </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T29">метка — начало </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T30">main</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:line-break/>  addi sp,sp,-16            <text:s text:c="8"/># </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T29">выделение кадра стека</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:line-break/>  sw ra,12(sp)              <text:s text:c="9"/># </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T29">сохранение адреса возврата</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:line-break/>  lui a0,%hi(string1)    <text:s text:c="7"/># </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T29">вычисление адреса</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:line-break/>  addi a0,a0,%lo(string1)    # string1<text:line-break/>  lui a1,%hi(string2)        <text:s text:c="4"/># </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T29">вычисление адреса</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:line-break/>  addi a1,a1,%lo(string2)    # string2<text:line-break/>  call printf                <text:s text:c="12"/># </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T29">вызов функции</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"> printf<text:line-break/>  lw ra,12(sp)              <text:s text:c="10"/># </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T29">востанавливаем адрес возврата</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:line-break/>  addi sp,sp,16              <text:s text:c="8"/># </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T29">освободить кадр стека</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:line-break/>  li a0,0                    <text:s text:c="14"/># </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T29">загружаем значение для возврата (0)</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:line-break/>  ret                        <text:s text:c="16"/># </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T29">возврат</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:line-break/><text:line-break/>  .section .rodata          <text:s text:c="9"/># </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T32">Директива — вход в секцию данных «только для чтения»</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:line-break/>  .balign 4                  <text:s text:c="13"/># </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T32">Директива — выравнивание данных по 4-м байтам</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:line-break/><text:line-break/>string1:                    <text:s text:c="14"/># </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T32">метка — строка </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T33">string1</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:line-break/>  .string &quot;Hello, %s!\n&quot;    <text:s text:c="4"/># </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T32">Директива — строка с нуль-символом в конце</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:line-break/><text:line-break/>string2:                    <text:s text:c="15"/># </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T32">метка — строка </text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T33">string2</text:span></text:span><text:span text:style-name="Strong_20_Emphasis"><text:line-break/>  .string &quot;world&quot;            <text:s text:c="8"/># </text:span><text:span text:style-name="Strong_20_Emphasis"><text:span text:style-name="T32">Директива — строка с нуль-символом в конце</text:span></text:span></text:p>
+   <text:h text:style-name="P102" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc4625_125099491"/>Директивы Ассемблера<text:bookmark-end text:name="__RefHeading___Toc4625_125099491"/></text:h>
+   <text:p text:style-name="P103">Директивы ассемблера RISC-V - это инструкции, не относящиеся к процессору, которые предоставляют информацию ассемблеру (программе, которая создает машинный код из текстового файла), но не выполняются как машинные инструкции. Они управляют процессом сборки, определяют расположение данных и предоставляют информацию компоновщикам.</text:p>
+   <text:p text:style-name="P104">Общие директивы ассемблера RISC-V</text:p>
+   <text:p text:style-name="P105">.<text:span text:style-name="T1">align</text:span></text:p>
+   <text:p text:style-name="P106">Выравнивает счетчик местоположения по заданной границе степени 2.</text:p>
+   <text:p text:style-name="P107">.<text:span text:style-name="T1">section</text:span></text:p>
+   <text:p text:style-name="P108">Указывает раздел выходного файла, в который следует поместить следующие данные.</text:p>
+   <text:p text:style-name="P109">.byte</text:p>
+   <text:p text:style-name="P108">Определяет массив 8-<text:span text:style-name="T2">битных</text:span> значений.</text:p>
+   <text:p text:style-name="P109">.half</text:p>
+   <text:p text:style-name="P106">Определяет массив 16-битных значений.</text:p>
+   <text:p text:style-name="P107">.<text:span text:style-name="T1">word</text:span></text:p>
+   <text:p text:style-name="P106"><text:soft-page-break/>Определяет массив 32-битных значений.</text:p>
+   <text:p text:style-name="P107">.<text:span text:style-name="T1">data</text:span></text:p>
+   <text:p text:style-name="P108">Указывает начало раздела данных, в котором хранятся инициализированные данные.</text:p>
+   <text:p text:style-name="P109">.text</text:p>
+   <text:p text:style-name="P108">Указывает начало раздела кода, в котором хранятся инструкции.</text:p>
+   <text:p text:style-name="P109">.globl</text:p>
+   <text:p text:style-name="P108">Объявляет символ глобальным и доступным из других файлов.</text:p>
+   <text:p text:style-name="P109">.equ</text:p>
+   <text:p text:style-name="P108">Присваивает символу значение, удобное для констант.</text:p>
+   <text:p text:style-name="P109">.string</text:p>
+   <text:p text:style-name="P108">Определяет строку символов ASCII с нулевым завершающим знаком.</text:p>
+   <text:p text:style-name="P108">Это одни из самых популярных директив ассемблера RISC-V, но их гораздо больше. Полный список можно найти в руководстве по RISC-V ISA или в <text:a xlink:type="simple" xlink:href="https://github.com/riscv-non-isa/riscv-asm-manual/blob/lpad_hash/riscv-asm.md" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">документации по конкретному ассемблеру</text:a>.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc4627_125099491"/>Памятка: набор инструкций RISC-V<text:bookmark-end text:name="__RefHeading___Toc4627_125099491"/></text:h>
+   <text:p text:style-name="Text_20_body">Сейчас самое подходящее время для напоминания:<text:line-break/>Поскольку мы собираемся ознакомиться с несколькими примерами программирования, было бы неплохо иметь под рукой “<text:a xlink:type="simple" xlink:href="https://drive.google.com/file/d/1uviu1nH-tScFfgrovvFCrj7Omv8tFtkp/view?usp=drive_link" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">Руководство по набору инструкций RISC-V, Том I: Непривилегированный ISA</text:a>” на случай, если вам понадобится ознакомиться с некоторыми инструкциями в коде.<text:line-break/>Также не забудьте иметь под рукой краткий справочный документ. Вот ссылки на документы, которые мы рекомендовали ранее:</text:p>
+   <text:list text:style-name="L38">
+    <text:list-item>
+     <text:p text:style-name="P110"><text:s/><text:a xlink:type="simple" xlink:href="https://github.com/jameslzhu/riscv-card/releases/download/latest/riscv-card.pdf" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">RISC-V Reference Card</text:a></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P110"><text:s/><text:a xlink:type="simple" xlink:href="http://riscvbook.com/greencard-20181213.pdf" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">RISC-V reference card</text:a> <text:span text:style-name="T32">включенный в </text:span><text:a xlink:type="simple" xlink:href="http://riscvbook.com/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">The RISC-V Reader</text:a></text:p>
+    </text:list-item>
+   </text:list>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc4629_125099491"/>Краткий обзор набора инструкций ассемблера RISC-V<text:bookmark-end text:name="__RefHeading___Toc4629_125099491"/></text:h>
+   <text:p text:style-name="Text_20_body">Пожалуйста, держите под рукой краткий справочник по RISC-V, чтобы ознакомиться с некоторыми инструкциями, которые мы отобрали и подробно описали в следующем списке. Этот список не является исчерпывающим, но в нем представлена информация о большинстве типов инструкций, а также некоторые важные детали, которые, по нашему мнению, вам следует знать. <text:line-break/>Цель этого упражнения - познакомить вас с набором команд с точки зрения программиста на языке ассемблера, чтобы вы могли вернуться к своему краткому справочному документу всякий раз, когда вам понадобится узнать больше о конкретной инструкции. Имейте в виду, что в вашем кратком справочном документе инструкции могут быть упорядочены по их базовому ISA или расширению ISA.<text:line-break/>Все приведенные ниже инструкции на языке ассемблера имеют соответствующие инструкции на машинном языке RISC-V. Другими словами, это не псевдоинструкции.</text:p>
+   <table:table table:name="Таблица1" table:style-name="Таблица1">
+    <table:table-column table:style-name="Таблица1.A" table:number-columns-repeated="3"/>
+    <table:table-header-rows>
+     <table:table-row>
+      <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+       <text:p text:style-name="P111">Инструкция</text:p>
+      </table:table-cell>
+      <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+       <text:p text:style-name="P111">Значение</text:p>
+      </table:table-cell>
+      <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+       <text:p text:style-name="P111">Комментарии</text:p>
+      </table:table-cell>
+     </table:table-row>
+    </table:table-header-rows>
+    <table:table-row>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">add rd, rs1, rs2</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="P112">Складывает регистры</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">Добавляет rs1 к rs2 и сохраняет результат в rd</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">auipc rd, immediate</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="P112">Добавляет верхнюю часть константы к <text:span text:style-name="T1">PC</text:span></text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">Добавляет 20-битное значение константы сдвинутое влево на 12 бит, в PC и записывает результат в rd</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">jal rd, offset</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="P112">Перейти и связать</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">Записывает PC+4 в rd и переходит к PC+смещение с расширением знака</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">jalr rd, offset(rs1)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="P112">Перейти и связать регистр</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">Записывает PC+4 в rd и переходит к rs1+смещение с расширением знака</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">lw rd, offset(rs1)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="P112">Загрузить слово</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">Загружает 4 байта из адреса rs1 <text:soft-page-break/>плюс смещение с расширением знака и записывает их rd</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">lb rd, offset(rs1)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="P112">Загрузить байт</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">Загружает 1 байт из адреса rs1 плюс смещение с расширением знака и записывает его в rd</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">lui rd, immediate</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="P112">Загрузить старщую часть константы</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">Записывает 20-битное значение константы со сдвигом влево на 12 бит в rd, обнуляя младшие 12 бит</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">addi rd, rs1, immediate</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="P112">Добавить константу</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">Добавляет 12-разрядное значение константы к rs1 и записывает результат в rd</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">sw rs2, offset(rs1)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="P112">Сохранить слово</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">Сохраняет 4 байта из rs2 в адрес rs1 плюс смещение с расширением знака</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">sb rs2, offset(rs1)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="P112">Сохранить байт</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица1.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">Сохраняет младшезначащий байт из rs2 в адрес rs1 плюс смещение с расширением знака</text:p>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc4631_125099491"/>Краткий обзор псевдоинструкций RISC-V<text:bookmark-end text:name="__RefHeading___Toc4631_125099491"/></text:h>
+   <text:p text:style-name="Text_20_body">Еще раз напоминаю, что у вас под рукой есть краткий справочник по RISC-V, чтобы узнать больше о некоторых псевдоинструкциях, которые мы выбрали и подробно описали в следующем списке. <text:line-break/>Псевдоинструкция - это допустимая команда на языке ассемблера, которая не имеет машинной кодировки, но преобразуется в одну или несколько машинных инструкций RISC-V, которые в конечном итоге выполняют ее функцию.<text:line-break/>В следующем списке мы продемонстрируем некоторые псевдоинструкции и их обычную реализацию.</text:p>
+   <table:table table:name="Таблица2" table:style-name="Таблица2">
+    <table:table-column table:style-name="Таблица2.A" table:number-columns-repeated="3"/>
+    <table:table-header-rows>
+     <table:table-row>
+      <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+       <text:p text:style-name="P113">Псевдоинструкция</text:p>
+      </table:table-cell>
+      <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+       <text:p text:style-name="P113">Реализация</text:p>
+      </table:table-cell>
+      <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+       <text:p text:style-name="P113">Значеие</text:p>
+      </table:table-cell>
+     </table:table-row>
+    </table:table-header-rows>
+    <table:table-row>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">nop</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">addi x0, x0, 0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="P114">Нет опреации</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">beqz rs, offset</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">beq rs, x0, offset</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="P114">Переход, если равно нулю</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">j offset</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">jal x0, offset</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="P114">Безусловный переход</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">jal offset</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">jal x1, offset</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="P114">Перейти и связать</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">jr rs</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">jalr x0, 0(rs)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="P114">Перейти к регистру</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">ret</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">jalr x0, 0(x1)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="P114">Возврат из подпрограммы</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">lla rd, symbol</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">auipc rd, symbol[31:12]</text:p>
+      <text:p text:style-name="Table_20_Contents">addi rd, rd, symbol[11:0]</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="P114">Загрузить локальный адрес</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">li rd, immediate</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">lui rd, immediate[31:12]</text:p>
+      <text:p text:style-name="Table_20_Contents">addi rd, rd, immediate[11:0]</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="P114">Загрузить константу</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">mv rd, rs</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">addi rd, rs, 0</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="P114">Копировать регистр</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">not rd, rs</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">xori rd, rs, -1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="P114">Дополнение до двух</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">bgt rs, rt, offset</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">blt rt, rs, offset</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="P114">Переход, если больше</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Таблица2.13">
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">call offset</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="Table_20_Contents">auipc x1, offset[31:12]</text:p>
+      <text:p text:style-name="Table_20_Contents">jalr x1, offset[11:0](x1)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Таблица2.A1" office:value-type="string">
+      <text:p text:style-name="P114">Вызов уддаленной подпрограммы</text:p>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:p text:style-name="Text_20_body"/>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc4633_125099491"/>Доступ к CSR<text:bookmark-end text:name="__RefHeading___Toc4633_125099491"/></text:h>
+   <text:p text:style-name="Text_20_body">RISC-V определяет отдельное адресное пространство из 4096 регистров управления и состояния (CSR), связанных с каждым hart (сокращенно от Hardware Thread). Как подробно обсуждалось ранее, эти регистры работают как средство настройки (управления) и изучения состояния аппаратных элементов в системе.<text:line-break/>В то время как привилегированная архитектура в основном использует CSR, в непривилегированном коде есть несколько применений, в том числе для счетчиков и таймеров, а также для состояния с плавающей запятой.<text:line-break/>Доступ к CSR в RISC-V осуществляется с помощью специальных инструкций для чтения и записи по определенным адресам памяти, которые соответствуют различным CSR. Эти адреса памяти определены <text:soft-page-break/>спецификацией RISC-V и обычно находятся за пределами диапазона адресов, используемых для обычной памяти данных и команд.<text:line-break/>Конкретные инструкции, используемые для доступа к CSR, следующие:</text:p>
+   <text:list text:style-name="L39">
+    <text:list-item>
+     <text:p text:style-name="P115">CSRRW (Чтение/запись в CSR).</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P115">CSRRS (Чтение и установка CSR).</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P115">CSRRC (Чтение и очистка CSR).</text:p>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="P116">Эти инструкции позволяют считывать и записывать отдельные биты или целые регистры в CSR. Модуль Zicsr (Регистр управления и состояния) ISA содержит 3 инструкции, упомянутые выше, и поддерживает 2 режима адресации: регистровый и константный, всего 6 инструкций.</text:p>
+   <text:p text:style-name="P116">Чтобы узнать больше об использовании CSR, вы можете ознакомиться с <text:a xlink:type="simple" xlink:href="https://github.com/riscv-non-isa/riscv-asm-manual/blob/lpad_hash/riscv-asm.md" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">руководством программиста на ассемблере RISC-V</text:a>.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc4635_125099491"/>Порядок следования операндов<text:bookmark-end text:name="__RefHeading___Toc4635_125099491"/></text:h>
    <text:p text:style-name="Text_20_body"/>
   </office:text>
  </office:body>
