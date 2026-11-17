@@ -5,10 +5,13 @@
         <a href="./LinuxFoundation/">Курсы LinuxFoundation:</a>
         <ul>
             <li>
-                <a href="./LinuxFoundation/RISC-V/">RISC-V</a>
+                <a href="./LinuxFoundation/RISC-V/">RISC-V:</a>
+                <p>Курсы по архитектуре RISC-V</p>
                 <ul>
                     <li>
                         <a href="./LinuxFoundation/RISC-V/LFD110_Vvedenie_v_RISC-V.fodt">LFD110 Введение в RISC-V<a>
+                        <p>Данный документ - это копия курса, переведенная на русский язык.</p>
+                        <p>Это вводный курс в архитектуру RISC-V.</p>
                     </li>
                 </ul>
             </li>
