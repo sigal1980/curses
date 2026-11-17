@@ -2,6 +2,19 @@
 <p>Здесь собраны курсы, которые я проходил. Ниже представлено оглавление.</p>
 <ul>
     <li>
+        <a href="./vehicles/">Автомобили:</a>
+        <ul>
+            <li>
+                <a href="./vehicles/design/">Устройство:</a>
+                <ul>
+                    <li>
+                        <a href="./vehicles/design/engine/">Двигатель:</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li>
         <a href="./LinuxFoundation/">Курсы LinuxFoundation:</a>
         <ul>
             <li>
